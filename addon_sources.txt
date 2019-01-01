@@ -1,0 +1,3 @@
+https://github.com/caphm/plugin.video.netflix.git#release/0.14.0
+repository.kodi-repo-caphm/
+https://github.com/caphm/skin.titan.bingie.mode.git
